@@ -8,7 +8,7 @@ public class PrintToConsole : MonoBehaviour
     void Start()
     {
         // prints hello world to the console
-        Debug.Log("Hello World");
+        Debug.Log("Hello World 2");
         
     }
 
